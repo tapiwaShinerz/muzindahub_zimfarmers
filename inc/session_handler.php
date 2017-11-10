@@ -6,6 +6,7 @@ echo "<script> alert ('Login first to access this page'); window.location=('inde
 }
 
 }
+// checking bad words in all inputs and output
 $find=array
 ('fuck'
   );
