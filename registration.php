@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Farmer Registration|Welcome</title>
+<title>Farmers Registration|Welcome</title>
 </head>
 <body>
 	<div class="container-fluid">
@@ -139,7 +139,7 @@
      <div class="form-group">
         <div class="text-danger"> <?php echo "$questionErr";?></div>
        <label style="color: #060" for="question">What is your favourite crop:<small>Please keep this safe for<br> password recovery</small></small></label>
-            <input type="text" name="question" class="form-control" id="question" placeholder="rapoko"> 
+            <input type="text" name="question" class="form-control" id="question" placeholder="soghum"> 
      </div>
     
         <span><button type="submit" name="farmer_registration"  class="btn btn-success"><span style="color:#FFF">Create Account Now</span></button></center>
